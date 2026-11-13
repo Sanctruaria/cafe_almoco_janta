@@ -1,0 +1,9 @@
+    Eu usei o site Startbootstrap para criar um site de restaurante, e fiz algumas alterações no texto e nos links do menu. As alterações incluem a mudança do nome do restaurante, a descrição dos serviços oferecidos e a tradução de algumas seções para o português.
+    Além disso, os links do menu foram atualizados para não funcionarem, mas para mostrar como ficaria o menu do site.
+    As alterações foram feitas no arquivo index.html, que é o arquivo principal do site.
+    Mudei o título, mas não funcionou meu negrito (<b>) pois estava dentro de um span (<span>),
+        então deixei quieto.
+    Também mudei o subtítulo do site, para dar um aajudada com o título.
+    Mudei as informações para colocar um sentimentalismo de café para atrair mais clientes
+        e mostrar nossa paixão pelo café.
+    Usei o negrito em algumas partes para dar mais ênfase nessas partes
